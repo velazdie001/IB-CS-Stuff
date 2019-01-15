@@ -1,3 +1,6 @@
-*[Course Description](https://velazdie001.github.io/IB-CS-Stuff/Course-Description.md)  
-*[Syllabus](https://velazdie001.github.io/IB-CS-Stuff/Syllabus.md)  
-*[Class Notes](https://velazdie001.github.io/IB-CS-Stuff/Class-Notes.md)  
+/[Course Description](https://velazdie001.github.io/IB-CS-Stuff/Course-Description.md)  
+      What this class is about    
+/[Syllabus](https://velazdie001.github.io/IB-CS-Stuff/Syllabus.md)  
+      What's to be expected in this class    
+/[Class Notes](https://velazdie001.github.io/IB-CS-Stuff/Class-Notes.md)  
+      What I've learned in the class    
