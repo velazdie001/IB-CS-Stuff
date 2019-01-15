@@ -1,3 +1,3 @@
-*[Course Description](https://velazdie001.github.io/Project/Course-Description.md)  
-*[Syllabus](https://velazdie001.github.io/Project/Syllabus.md)  
-*[Class Notes](https://velazdie001.github.io/Project/Class-Notes.md)  
+*[Course Description](https://velazdie001.github.io/IB-CS-Stuff/Course-Description.md)  
+*[Syllabus](https://velazdie001.github.io/IB-CS-Stuff/Syllabus.md)  
+*[Class Notes](https://velazdie001.github.io/IB-CS-Stuff/Class-Notes.md)  
