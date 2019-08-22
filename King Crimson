@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+        body {
+        background-color: red;
+        text-align: center;
+        color: white;
+        background-image: url("kingucrimson.jpg");
+        background-repeat: repeat;
+        background-repeat: round;
+      }
+      img {
+        width: 1000px;
+        height: 500px;
+
+      }
+      img {
+        animation: shake 0.5s;
+        animation-iteration-count: infinite;
+      }
+
+      @keyframes shake {
+        0% { transform: translate(16px, 32px) rotate(5deg); }
+        10% { transform: translate(-19px, -20px) rotate(3deg); }
+        20% { transform: translate(-31px, 2px) rotate(-19deg); }
+        30% { transform: translate(33px, 34px) rotate(12deg); }
+        40% { transform: translate(16px, -19px) rotate(-15deg); }
+        50% { transform: translate(-12px, 23px) rotate(2deg); }
+        60% { transform: translate(-28px, -19px) rotate(-9deg); }
+        70% { transform: translate(29px, 10px) rotate(20deg); }
+        80% { transform: translate(-20px, -40px) rotate(-14deg); }
+        90% { transform: translate(14px, 40px) rotate(19deg); }
+        100% { transform: translate(19px, -20px) rotate(-12deg); }
+      }
+      </style>
+    <meta charset="utf-8">
+    <title>KING CRIMSON</title>
+    <meta name="description" content="Roughly 155 characters">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script>
+      function explainitDiavolo() {
+        alert("So basically you did the thing. But you didn't do the thing.");
+      }
+
+    </script>
+  </head>
+  <body>
+    <center>
+    <h3>
+      ALRIGHT, YOU WANNA KNOW FINE?! I ADMIT IT, I DON'T KNOW HOW KING CRIMSON WORKS!! HE ERASES TIME BUT WHAT DOES THAT MEAN?! IF YOU ERASE TIME THEN SHOULDN'T HE NOT BE THERE?! WHAT DOES THAT MEAN- WHAT DOES HE MEAN HE ERASES TIME?! HE ERASES TIME BUT STUFF STILL HAPPENS IN IT!! HOW DOES HE KNOW WHAT HAPPENS IN IT WHEN HE ERASES IT?! IT DOESN'T MAKE ANY SENSE YOU CAN'T ERASE TIME! YOU CAN'T ERASE TIME! FINE! YOU CAN FREEZE TIME AND YOU CAN TURN BACK TIME, BUT YOU CAN'T ERASE TIME!! THAT DOESN'T MAKE SENSE! IT DOESN'T MAKE SENSE!! YOU ERASE TIME NOTHING HAPPENS IN IT!! I DON'T KNOW, I DON'T KNOW SOMEONE TELL ME! SOMEONE TELL ME HOW KING CRIMSON WORKS! I NEED TO KNOW! I NEED TO KNOW HOW KING CRIMSON WORKS, PLEASE!!! PLEASE, JUST TELL ME!! I NEED TO KNOW! SOMEONE EXPLAIN IT! ITS CONFUSING I DON'T KNOW, HOW DOES KING CRIMSON WORK?!?! HOW DOES IT WORK?! HOW DOES KING CRIMSON WORK PLEASE!! PLEASE SOMEONE TELL ME I NEED TO KNOW HOW KING CRIMSON WORKS!!!!
+      <br><button type ="button" onclick="explainitDiavolo()">CLICK HERE FOR A FREE EXPLANATION!!!</button>
+    </h3>
+    <br>
+    <br>
+    <br>
+
+    <img src="screeching.jpeg" alt="AAAAAAAAAAAAA"/>
+
+
+    </center>
+  </body>
+</html>
