@@ -4,5 +4,5 @@
       What's to be expected in this class    
 /[Class Notes](https://velazdie001.github.io/IB-CS-Stuff/Class-Notes.md)  
       What I've learned in the class    
-/[King Crimson](https://velazdie001.github.io/IB-CS-Stuff/KingCrimson.html)
-      A little site I made
+/[King Crimson](https://velazdie001.github.io/IB-CS-Stuff/KingCrimson.html)      
+A little site I made
