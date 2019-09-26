@@ -1,4 +1,4 @@
-var graphic;
+var graphic; 
 
 function setup(){
   createCanvas(600, 400);
@@ -144,7 +144,7 @@ function draw() {
     rect(random(0, 600),random(0, 400), 10, 10);
     rect(random(0, 600),random(0, 400), 10, 10);
     rect(random(0, 600),random(0, 400), 10, 10);
-    image(graphic, rand(0, 600), rand(0, 400);
-  }
 
+  }
+  image(graphic, rand(0, 600), rand(0, 400));
 }
