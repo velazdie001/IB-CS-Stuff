@@ -1,4 +1,4 @@
-/[Course Description](https://velazdie001.github.io/IB-CS-Stuff/Course-Description.md) 
+/[Course Description](https://velazdie001.github.io/IB-CS-Stuff/Course-Description.md)<br/> 
       What this class is about<br/>    
 /[Syllabus](https://velazdie001.github.io/IB-CS-Stuff/Syllabus.md)  
       What's to be expected in this class<br/>    
