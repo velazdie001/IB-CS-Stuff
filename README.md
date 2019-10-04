@@ -6,5 +6,6 @@
       What I've learned in the class    
 /[King Crimson](https://velazdie001.github.io/IB-CS-Stuff/KingCrimson.html)      
       A little site I made
+
 /[The Court](https://velazdie001.github.io/IB-CS-Stuff/game.html)
-A small Choose-Your-Own-Adventure Game
+	A small Choose-Your-Own-Adventure Game
