@@ -1,0 +1,80 @@
+<html>
+<body>
+<center>
+    <div id="game_area">
+    <img src ="court.jpg" onclick="start_game()">
+  </div>
+</center>
+  <script>
+
+      var user_play;
+
+      var something;
+
+      var look;
+
+      var quit;
+      quit = 1;
+
+      var walk;
+      walk = "You walk around a bit to figure out what's going on.";
+
+      var end;
+      end = "2 B continued lol"
+
+      var retry;
+      retry = "Want to try again?"
+
+
+
+
+
+      function start_game() {
+
+              alert("You are asleep.");
+
+              user_play = confirm("Do you choose to wake up?");
+
+              if (user_play == true){
+                document.getElementById("game_area").innerHTML='<img src ="black.jpg" onclick="wake()">';
+
+                alert("You awaken.");
+              }
+            }
+
+      function wake() {
+
+                alert("Welcome to the court of the Crimson King.");
+
+                alert("You find yourself in a large chamber. A massive throne stands before you, covered in ash and glowing embers.");
+
+                alert("You have no idea why.");
+
+                something = confirm("Inspect the throne?");
+
+                  if (something == true) {
+
+                    alert("You take a closer look. Its size is menacing. Old King Crimson should be around here somewhere, but where is he? He almost never leaves his seat.");
+
+                    alert(walk);
+
+                    alert(end);
+
+                    quit = confirm(retry);
+
+                } else {
+
+                    alert("You try to look around, but your eyes meet only a cold, black abyss.");
+
+                    alert(walk);
+
+                    alert(end);
+
+                    quit = confirm(retry);
+
+                }
+              }
+
+    </script>
+  </body>
+</html>
